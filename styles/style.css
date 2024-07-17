@@ -1,0 +1,40 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-between;
+    gap: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    
+
+}
+.common-container{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    height: 150px;
+    padding-left: 15px;
+    padding-right: 20px;
+    flex-grow: 1;
+
+}
+.text-primary{
+    color: white;
+    font-weight: 50px;
+}
+.watch{
+    background-color: #0dcbf0;
+}
+.shoe{
+    background-color: #0e6ffd;
+
+}
+
+.bag{
+    background-color: #198754;
+
+}
